@@ -11,6 +11,7 @@ header{
 }
 html{
 	scroll-behavior: smooth;
+	
 }
 h3{
 	color:white;
@@ -49,6 +50,7 @@ li a{
 	color:white;
 	text-decoration: none;
 	font-weight: bold;
+
 }
 li a:hover{
 	 background-color:#42c2f5;
@@ -64,6 +66,7 @@ button{
 	color:black;
 	width:100px;
 	border:none;
+	margin-bottom: 10%;
 
 }
 .dropdown {
